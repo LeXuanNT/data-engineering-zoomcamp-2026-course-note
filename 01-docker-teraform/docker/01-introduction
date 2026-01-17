@@ -1,1 +1,18 @@
+Introduction to Docker
+
+Docker is a containerization platform that packages applications and their dependencies into portable containers, ensuring consistent execution across enviroments.
+
+Docker enables:
+* Each application to run in its own isolated environment
+* No need to install a full operating system (OS) like a virtual machine (VM)
+* Lower resource usage and fast startup times
+
+A Docker image is a package snapshot of a container that defines how our software runs - including:
+* A application
+* Required libraries
+* All necessary dependencies
+
+In this context, Docker images are used to define and run data pipelines. Once built, these images can be exported to cloud platfomrs such as  Amazon Web Services (AWS) or Google Cloud Platform (GCP), allowing the same containers to run consistently across local and cloud enviroments.
+
+
 
