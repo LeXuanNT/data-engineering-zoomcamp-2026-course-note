@@ -8,6 +8,7 @@ This module covers workflow orchestration concepts and hands-on data pipeline de
 
 ## Repo Structure
 
+```text
 02-workflow-orchestration/
 │
 ├── 2.1-introduction-to-workflow-orchestration/
