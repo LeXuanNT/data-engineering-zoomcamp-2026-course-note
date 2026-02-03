@@ -17,7 +17,7 @@ This module covers workflow orchestration concepts and hands-on data pipeline de
 ├── 2.4-elt-pipelines-kestra-gcp/
 ├── 2.5-ai-for-data-engineering-kestra/
 └── README.md
-
+```text
 ---
 
 ## Course Structure
