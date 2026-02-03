@@ -10,13 +10,13 @@ This module covers workflow orchestration concepts and hands-on data pipeline de
 
 ```text
 02-workflow-orchestration/
-│
 ├── 2.1-introduction-to-workflow-orchestration/
 ├── 2.2-getting-started-with-kestra/
 ├── 2.3-hands-on-etl-project-kestra/
 ├── 2.4-elt-pipelines-kestra-gcp/
 ├── 2.5-ai-for-data-engineering-kestra/
-└── README.md'''
+└── README.md
+
 ---
 
 ## Course Structure
