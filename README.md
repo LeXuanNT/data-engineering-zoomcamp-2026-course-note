@@ -10,3 +10,4 @@ Personal notes from the Data Engineering Zoomcamp 2026 by DataTabls.Club
 
 ## Learning Progress
 - Week 1: docker-terraform
+- Week 2: workflow-orchestration
